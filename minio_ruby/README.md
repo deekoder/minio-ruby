@@ -20,25 +20,7 @@ Or install it yourself as:
 
     $ gem install minio_ruby
 
-# Development
-To build the minio_ruby gem do
-```sh
-$ gem build minio_ruby.gemspec
-```
-
-Install the gem with 
-```sh
- $ gem install minio_ruby
-```
-
-### Testing
-Tests cases are being written. Testing can be done with irb.
-```sh
-$ irb
-2.2.2 :001 > require "minio_ruby"
- => true 
-2.2.2 :002 > quit 
-```
+ 
 
 ## Contributing
 
